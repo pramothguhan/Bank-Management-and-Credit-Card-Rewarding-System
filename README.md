@@ -55,6 +55,33 @@ The UML diagram illustrates the system's architecture, showing the interactions 
 2. **Boxplot of Loan Amounts:** Illustrates the distribution of loan amounts across different branches.
 3. **Histogram of Customer Incomes:** Shows the income distribution among customers.
 
+## Project Folder Structure :file_folder:
+```
+📦 Bank_Management_and_Credit_Card_Rewarding_System
+├── Data_Group_14
+│ ├── ACCOUNT.csv
+│ ├── BRANCH.csv
+│ ├── CREDITCARD.csv
+│ ├── CUSTOMER.csv
+│ ├── EMPLOYEE.csv
+│ ├── LOAN.csv
+│ ├── PAYMENT.csv
+│ ├── REWARD.csv
+│ ├── TRANSACTION.csv
+│ └── Schema.docx
+├── documents
+│ ├── Bank Management and Credit Card Rewarding System.pptx
+│ ├── BankManagementandCreditCardRewardingSystem_Final.pdf
+│ ├── ConceptualModel_Group_14.pdf
+│ ├── Implementation_NoSQL_Group_14.pdf
+│ ├── LogicalModel_Group_14.pdf
+│ ├── MySQL_Implementation_Group_14.pdf
+│ ├── Project Proposal_Group_14.pdf
+├── src
+│ ├── Python Implementation.ipynb
+│ └── Python Implementation.pdf
+└── README.md
+```
 ## Conclusion :checkered_flag:
 
 The Bank Management and Credit Card Rewarding System represents a significant advancement in the banking industry, providing a streamlined, data-driven approach to managing banking operations and enhancing customer engagement. The integration of various banking entities into a cohesive system allows for better management of customer relationships and operational efficiency. The Credit Card Rewarding System, in particular, sets a new standard for fostering customer loyalty and satisfaction.
